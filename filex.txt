@@ -3,3 +3,5 @@ Salut 2
 Salut din branch-ul secund.
 
 O noua modificare.
+
+Inca o modificare.
