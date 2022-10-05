@@ -1,1 +1,4 @@
 Salut 2
+
+
+New line from VS Code
