@@ -1,4 +1,5 @@
 Salut 2
 
+Salut din branch-ul secund.
 
-New line from VS Code
+O noua modificare.
